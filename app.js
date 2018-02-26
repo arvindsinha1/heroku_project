@@ -8,6 +8,7 @@ console.log(process.env.PORT, 'port');
 
 app.get('/', (req, res) =>{
   console.log('/ is called');
+  res.send("<b>Home Page</b>");
 });
 
 app.get('/favicon.ico', (req, res) =>{
