@@ -1,0 +1,22 @@
+{
+  "name": "node_practice1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:arvindsinha1/heroku_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "git@github.com:arvindsinha1/heroku_project.git/issues"
+  },
+  "homepage": "https://github.com/arvindsinha1/heroku_project#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
